@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Factory</string>
+    <dimen name="item_height">80dp</dimen>
+</resources>
